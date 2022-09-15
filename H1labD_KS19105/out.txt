@@ -1,0 +1,26 @@
+a: no words starting with this letter
+b: no words starting with this letter
+c: no words starting with this letter
+d: no words starting with this letter
+e: no words starting with this letter
+f: no words starting with this letter
+g: no words starting with this letter
+h: no words starting with this letter
+i: no words starting with this letter
+j: no words starting with this letter
+k: no words starting with this letter
+l: no words starting with this letter
+m: no words starting with this letter
+n: no words starting with this letter
+o: no words starting with this letter
+p: no words starting with this letter
+q: no words starting with this letter
+r: no words starting with this letter
+s: no words starting with this letter
+t: no words starting with this letter
+u: no words starting with this letter
+v: no words starting with this letter
+w: no words starting with this letter
+x: no words starting with this letter
+y: no words starting with this letter
+z:za=2

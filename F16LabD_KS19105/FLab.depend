@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582191199 source:d:\programming\codeblock\flab\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

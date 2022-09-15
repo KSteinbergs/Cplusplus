@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1575125899 source:d:\programming\codeblock\test_labd_test\main.cpp
+	"SkMass.h"
+	<iostream>
+	"func.cpp"
+
+1575125710 d:\programming\codeblock\test_labd_test\skmass.h
+
+1575125956 d:\programming\codeblock\test_labd_test\func.cpp
+	"SkMass.h"
+	<iostream>
+

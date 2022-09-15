@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1568839443 source:d:\programming\codeblock\test\main.cpp
+	<iostream>
+	<string>
+
+1568198779 source:d:\programming\codeblock\test\src\teste.cpp
+	"teste.h"
+
+1568198736 d:\programming\codeblock\test\include\teste.h
+

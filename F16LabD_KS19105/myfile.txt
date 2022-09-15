@@ -1,0 +1,24 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    ifstream file("my_file");
+    string temp;
+    int nr!=0;
+    while(getline(file, temp)){
+        for(int i=0; i<temp.length()-1;i++){
+            if(temp[i]=='<'||temp[i]=='>'){
+                i++;
+                nr++;
+            }else if(temp.substr(i,2)=="=="||temp.substr(i,2)=="!="){
+                nr++;
+            }
+        }
+    }
+    cout<<"atrastas "<<nr<<" salidzinasanas"<<endl;
+    return 0;
+} <= >=

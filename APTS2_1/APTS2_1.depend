@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590169574 source:d:\programming\codeblock\apts2_1\main.cpp
+	<iostream>
+	<fstream>
+

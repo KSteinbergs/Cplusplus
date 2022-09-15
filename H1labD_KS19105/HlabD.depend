@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588878321 source:d:\programming\codeblock\hlabd\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569323635 source:d:\programming\codeblock\b4\labd2.cpp
+	<iostream>
+	<string>
+	<sstream>
+
